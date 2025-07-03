@@ -28,9 +28,11 @@ python filename.py
 
 ## Features
 
-- Image loading and display
+- Image,Webcam loading and display
 - Basic image transformations
 - Filtering and enhancement
+- Threshold operations
 - Edge detection
 - Contour operations
+- Drawing various shapes and Texts
 - Color space conversions
