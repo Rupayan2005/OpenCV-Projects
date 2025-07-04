@@ -18,18 +18,20 @@ This repository contains essential OpenCV functions, operations, and practical p
 
 ### Projects
 - **Yellow Object Detection** - Real-time yellow object detection using HSV color space filtering
-- Real-time computer vision applications
+- **Face Anonymizer** – Real-time face anonymization using OpenCV with blurring techniques and Streamlit frontend interface
 
 ## Requirements
 
 - Python 3.7+
 - OpenCV (cv2)
 - NumPy
+- Mediapipe
+- Streamlit
 
 ## Installation
 
 ```bash
-pip install opencv-python numpy
+pip install opencv-python numpy mediapipe streamlit
 ```
 
 ## Usage
