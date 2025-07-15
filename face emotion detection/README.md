@@ -102,13 +102,13 @@ training_data/
 ### Adding New Emotions
 
 1. Add training data for the new emotion
-2. Update the emotion labels in `config.py`
+2. Update the emotion labels
 3. Retrain the model with the new data
-4. Update the visualization colors in `utils.py`
+4. Update the visualization colors
 
 ### Adjusting Model Parameters
 
-Modify the Random Forest parameters in `model_trainer.py`:
+Modify the Random Forest parameters in `train_model.py`:
 
 ```python
 rf_classifier = RandomForestClassifier(

@@ -18,7 +18,11 @@ This repository contains essential OpenCV functions, operations, and practical p
 
 ### Projects
 - **Yellow Object Detection** - Real-time yellow object detection using HSV color space filtering
+
 - **Face Anonymizer** – Real-time face anonymization using OpenCV with blurring techniques and Streamlit frontend interface
+
+- **Face Emotion Detector** – Real-time facial emotion detection using OpenCV: detects faces from live video feed, processes each face region, and classifies emotions with results displayed directly on the video frames.
+
 
 ## Requirements
 
